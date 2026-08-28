@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alpha, a Computer Science student in Nepal.
+I'm Alpha, a Computer Science student from Nepal.
 
 This is my personal profile where I will be uploading all the program that I am studying as a Computer Science student.
 
