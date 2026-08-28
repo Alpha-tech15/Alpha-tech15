@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Alpha, a Computer Science student in Nepal.
+
+This is my personal profile where I will be uploading all the program that I will study.
 <!--
 **Alpha-tech15/Alpha-tech15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
